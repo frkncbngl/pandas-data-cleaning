@@ -25,7 +25,7 @@ The flight data scraping script scrapes flight information from the ITA Matrix w
 ### 5. Feature Engineering
 - Add some extra columns with the data extracted from other columns. Such as duration in minutes, day of week, day of year, day time.
 
-### 5. Data Export
+### 6. Data Export
 - Export the cleaned data to a new Excel file or CSV file for further analysis and visualization.
 
 ## Repository Structure
